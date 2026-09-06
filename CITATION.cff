@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use EGPDC-Seg in your research, please cite our Neural Networks paper."
+title: "EGPDC-Seg"
+type: software
+authors:
+  - family-names: Li
+    given-names: Li
+  - family-names: Liu
+    given-names: Jianyi
+  - family-names: Xiao
+    given-names: Hanguang
+  - family-names: Zhou
+    given-names: Guanqun
+  - family-names: Liu
+    given-names: Qiyuan
+  - family-names: Zhang
+    given-names: Zhicheng
+repository-code: "https://github.com/LiLiXJTU/EGPDC-Seg"
+url: "https://doi.org/10.1016/j.neunet.2025.107396"
+preferred-citation:
+  type: article
+  title: "Expert guidance and partially-labeled data collaboration for multi-organ segmentation"
+  authors:
+    - family-names: Li
+      given-names: Li
+    - family-names: Liu
+      given-names: Jianyi
+    - family-names: Xiao
+      given-names: Hanguang
+    - family-names: Zhou
+      given-names: Guanqun
+    - family-names: Liu
+      given-names: Qiyuan
+    - family-names: Zhang
+      given-names: Zhicheng
+  journal: "Neural Networks"
+  volume: 187
+  article-number: "107396"
+  year: 2025
+  month: 7
+  doi: "10.1016/j.neunet.2025.107396"
